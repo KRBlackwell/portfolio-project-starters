@@ -8,6 +8,11 @@ Google Colab notebooks make it easy for you to copy a starter into your own Goog
 [Link to Google Colab notebook]([https://drive.google.com/file/d/1R7SmoOZP5h901FKD_haB-FZdnyeAbSMC/view?usp=sharing](https://colab.research.google.com/drive/1xiXBYjWW5nim7nw_Lbt3g4YcklMmGJzF?usp=sharing))\
 This project can take you in so many directions. Use your imagination and start exploring the data. There are opportunities here to bring in Census population data, and data near you or your favorite historic sites.
 
+## Sqlite3 create database and trigger, example of using a pandas dataframe and to_sql
+[Example of dataframe to database with sqlite3](https://github.com/KRBlackwell/portfolio-project-starters/blob/main/sqlite3_project_starter.ipynb)\
+[Link to Google Colab notebook](https://colab.research.google.com/drive/1C5iKVcuyhbqz8Co3GQ8hRiNXmwWhvif3?usp=sharing)\
+With sqlite3, you need to specify SQL statements.
+
 ## SQLAlchemy example using a pandas dataframe and to_sql
 [Example of dataframe to database with SQLAlchemy](https://github.com/KRBlackwell/portfolio-project-starters/blob/main/data_input_to_sql_sqlalchemy.ipynb)\
 [Link to Google Colab notebook](https://colab.research.google.com/drive/1HAwvptwN1vBCx-5iI1psqMm1p2O1Cfic?usp=sharing)\
