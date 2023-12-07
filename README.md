@@ -14,8 +14,8 @@ This project can take you in so many directions. Use your imagination and start 
 With sqlite3, you need to specify SQL statements.
 
 ## SQLAlchemy example using a pandas dataframe
-[Example of dataframe to database with SQLAlchemy - not using to_sql](https://github.com/KRBlackwell/portfolio-project-starters/blob/main/data_input_sqlalchemy.ipynb)
-[Link to Google Colab notebook](https://colab.research.google.com/drive/1vGUNLYN30u_tOlP3mGRJ62zx1zlTLrhe?usp=sharing)
+[Example of dataframe to database with SQLAlchemy - not using to_sql](https://github.com/KRBlackwell/portfolio-project-starters/blob/main/data_input_sqlalchemy.ipynb)\
+[Link to Google Colab notebook](https://colab.research.google.com/drive/1vGUNLYN30u_tOlP3mGRJ62zx1zlTLrhe?usp=sharing)\
  \
 [Example of dataframe to database with SQLAlchemy](https://github.com/KRBlackwell/portfolio-project-starters/blob/main/data_input_to_sql_sqlalchemy.ipynb)\
 [Link to Google Colab notebook](https://colab.research.google.com/drive/1HAwvptwN1vBCx-5iI1psqMm1p2O1Cfic?usp=sharing)\
