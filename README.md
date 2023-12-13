@@ -5,8 +5,10 @@ Google Colab notebooks make it easy for you to copy a starter into your own Goog
 
 ## Data analysis on the National Register of Historic Places
 [National Register of Historic Places Project Starter Notebook](https://github.com/KRBlackwell/portfolio-project-starters/blob/main/Portfolio%20Starter%20Python%20National%20Register%20of%20Historic%20Places.ipynb)\
-[Link to Google Colab notebook]([https://drive.google.com/file/d/1R7SmoOZP5h901FKD_haB-FZdnyeAbSMC/view?usp=sharing](https://colab.research.google.com/drive/1xiXBYjWW5nim7nw_Lbt3g4YcklMmGJzF?usp=sharing))\
-This project can take you in so many directions. Use your imagination and start exploring the data. There are opportunities here to bring in Census population data, and data near you or your favorite historic sites.
+[Link to Google Colab notebook](https://colab.research.google.com/drive/1xiXBYjWW5nim7nw_Lbt3g4YcklMmGJzF?usp=sharing)\
+This project can take you in so many directions. Use your imagination and start exploring the data. There are opportunities here to bring in Census population data, and data near you or your favorite historic sites.\
+Here is a completed example if you need more help: [National Register of Historic Places](https://github.com/KRBlackwell/portfolio-project-starters/blob/main/Portfolio_Starter_Python_National_Register_of_Historic_Places_Example.ipynb)\
+[Link to Google Colab notebook](https://colab.research.google.com/drive/1wvIbdzGI974IARZlguaMn1XWHSjzc8pO?usp=sharing)
 
 ## Sqlite3 create database and trigger, example of using a pandas dataframe and to_sql
 [Example of dataframe to database with sqlite3](https://github.com/KRBlackwell/portfolio-project-starters/blob/main/sqlite3_project_starter.ipynb)\
