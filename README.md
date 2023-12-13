@@ -8,7 +8,8 @@ Google Colab notebooks make it easy for you to copy a starter into your own Goog
 [Link to Google Colab notebook](https://colab.research.google.com/drive/1xiXBYjWW5nim7nw_Lbt3g4YcklMmGJzF?usp=sharing)\
 This project can take you in so many directions. Use your imagination and start exploring the data. There are opportunities here to bring in Census population data, and data near you or your favorite historic sites.\
 Here is a completed example if you need more help: [National Register of Historic Places](https://github.com/KRBlackwell/portfolio-project-starters/blob/main/Portfolio_Starter_Python_National_Register_of_Historic_Places_Example.ipynb)\
-[Link to Google Colab notebook](https://colab.research.google.com/drive/1wvIbdzGI974IARZlguaMn1XWHSjzc8pO?usp=sharing)
+[Link to Google Colab notebook](https://colab.research.google.com/drive/1wvIbdzGI974IARZlguaMn1XWHSjzc8pO?usp=sharing)\
+A few things you could do to change this notebook is to add more data, maybe put pinpoints for 5 - 10 of your favorite historic places, clean up the addresses so that the API can get latitudes and longitudes for more of them, etc. There are a ton of ways to customize this for yourself and make it your own.
 
 ## Sqlite3 create database and trigger, example of using a pandas dataframe and to_sql
 [Example of dataframe to database with sqlite3](https://github.com/KRBlackwell/portfolio-project-starters/blob/main/sqlite3_project_starter.ipynb)\
